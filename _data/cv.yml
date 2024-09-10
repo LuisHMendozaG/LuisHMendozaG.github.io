@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Luis Mendoza
     - name: Date of Birth
-      value: 14th March 1879
+      value: Agosto 1959
     - name: Languages
-      value: English, German
+      value: Español ,English 
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master 
+      institution: entro de Investigación Científica y de Educación Superior de Ensenada, Mexico. 
+      year: 1982
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Licenciatura 
+      institution: Universidad Autónoma de Baja California, Mexico.
+      year: 1972
       description:
         - Description 1.
         - Description 2.
